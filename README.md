@@ -1,5 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Olá 👋
 Estudando um pouco sobre programação, focando em ser um futuro programador front end!
 - 🔭 Atualmente vendo o basico para desenvolvimento Web 
